@@ -1,0 +1,27 @@
+body {
+    width: 100vw;
+    height: 100vh;  
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.formBox {
+    font-size: 30px;
+}
+
+.formBox input {
+font-size: 30px;
+}
+
+#btn {
+    font-size: 20px;
+    background-color: beige;
+    padding: 10px;
+    border-radius: 5px;
+}
